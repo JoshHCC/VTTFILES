@@ -1,0 +1,225 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+Maintaining some degree of website
+
+00:00:02.000 --> 00:00:05.000
+accessibility is a legal requirement in
+
+00:00:05.000 --> 00:00:09.000
+many countries, including the UK and USA.
+
+00:00:09.000 --> 00:00:11.000
+But more than that, it's about creating
+
+00:00:11.000 --> 00:00:15.000
+more inclusive online spaces for everyone.
+
+00:00:15.000 --> 00:00:18.000
+The Web Content Accessibility Guidelines
+
+00:00:18.000 --> 00:00:20.000
+are designed to make content on
+
+00:00:20.000 --> 00:00:23.000
+desktops, laptops, tablets,
+
+00:00:23.000 --> 00:00:26.000
+and mobile devices more accessible to a
+
+00:00:26.000 --> 00:00:28.000
+wider range of people, especially those
+
+00:00:28.000 --> 00:00:30.000
+with disabilities, including
+
+00:00:30.000 --> 00:00:32.000
+blindness and low vision,
+
+00:00:32.000 --> 00:00:35.000
+deafness and hearing loss,
+
+00:00:35.000 --> 00:00:38.000
+limited movement,
+
+00:00:38.000 --> 00:00:41.000
+speech disabilities,
+
+00:00:41.000 --> 00:00:43.000
+photosensitivity,
+
+00:00:43.000 --> 00:00:48.000
+and some learning disabilities like dyslexia.
+
+00:00:48.000 --> 00:00:50.000
+The guidelines state that content and
+
+00:00:50.000 --> 00:00:52.000
+user interfaces should be perceivable,
+
+00:00:52.000 --> 00:00:55.000
+operable, understandable, robust,
+
+00:00:55.000 --> 00:00:57.000
+and reliable. But what do these
+
+00:00:57.000 --> 00:01:00.000
+principles mean in practice?
+
+00:01:00.000 --> 00:01:03.000
+Perceivable. Making your content
+
+00:01:03.000 --> 00:01:05.000
+perceivable means improving visibility
+
+00:01:05.000 --> 00:01:10.000
+and readability through clear and consistent
+headers that enhance the user experience,
+
+00:01:10.000 --> 00:01:13.000
+descriptive alt text for
+
+00:01:13.000 --> 00:01:19.000
+images and considerations for screen readers.
+
+00:01:19.000 --> 00:01:22.000
+Operable. An operable navigation
+
+00:01:22.000 --> 00:01:24.000
+and user interface means users can
+
+00:01:24.000 --> 00:01:27.000
+navigate with a keyboard alone,
+
+00:01:27.000 --> 00:01:30.000
+without using a mouse or trackpad.
+
+00:01:30.000 --> 00:01:33.000
+They have time to read and interact
+
+00:01:33.000 --> 00:01:34.000
+with your content,
+
+00:01:34.000 --> 00:01:37.000
+understand their position on the page,
+
+00:01:37.000 --> 00:01:39.000
+and easily move through your website,
+
+00:01:39.000 --> 00:01:41.000
+finding all the information
+
+00:01:41.000 --> 00:01:44.000
+they're looking for.
+
+00:01:44.000 --> 00:01:49.000
+Understandable. It's important to make your
+content and the user journey
+
+00:01:49.000 --> 00:01:51.000
+as easy as possible to understand.
+
+00:01:51.000 --> 00:01:53.000
+Use clear and simple language,
+
+00:01:53.000 --> 00:01:55.000
+be consistent throughout the
+
+00:01:55.000 --> 00:01:58.000
+navigation and provide meaningful error
+messages to minimize
+
+00:01:58.000 --> 00:02:01.000
+confusion.
+
+00:02:01.000 --> 00:02:04.000
+Robust and reliable. When
+building robust and reliable websites,
+
+00:02:04.000 --> 00:02:06.000
+it's important to ensure compatibility
+
+00:02:06.000 --> 00:02:08.000
+with various browsers and assistive
+
+00:02:08.000 --> 00:02:10.000
+technologies, allowing users to access
+
+00:02:10.000 --> 00:02:13.000
+your content regardless of the tools
+
+00:02:13.000 --> 00:02:15.000
+they use. This means both future-proofing
+
+00:02:15.000 --> 00:02:18.000
+and iterating for the latest technology.
+
+00:02:18.000 --> 00:02:20.000
+Once you understand these principles,
+
+00:02:20.000 --> 00:02:23.000
+you can start to implement them by following
+
+00:02:23.000 --> 00:02:25.000
+the Web Content Accessibility
+
+00:02:25.000 --> 00:02:27.000
+Guidelines linked in the description.
+
+00:02:27.000 --> 00:02:31.000
+Then you can assess how well your site conforms.
+
+00:02:31.000 --> 00:02:35.000
+Level A is basic accessibility.
+
+00:02:35.000 --> 00:02:39.000
+Level AA is strong accessibility.
+
+00:02:39.000 --> 00:02:42.000
+Level AAA is excellent accessibility.
+
+00:02:42.000 --> 00:02:45.000
+Level AA is the standard all
+
+00:02:45.000 --> 00:02:48.000
+websites should be aiming for, while AAA
+
+00:02:48.000 --> 00:02:50.000
+criteria are generally considered more
+
+00:02:50.000 --> 00:02:53.000
+applicable to specific circumstances and
+
+00:02:53.000 --> 00:02:55.000
+content types. It's unlikely you'll need
+
+00:02:55.000 --> 00:02:58.000
+to tick every AAA box, but some may be
+
+00:02:58.000 --> 00:03:01.000
+relevant to your business or users.
+
+00:03:01.000 --> 00:03:03.000
+So next time you start a website project or
+
+00:03:03.000 --> 00:03:06.000
+update your site, be sure to check
+
+00:03:06.000 --> 00:03:08.000
+whether it meets user expectations and
+
+00:03:08.000 --> 00:03:11.000
+accessibility guidelines, or get in touch
+
+00:03:11.000 --> 00:03:12.000
+and we'll be happy to help.
+
+00:03:12.000 --> 00:03:15.000
+Did you find this video helpful? Let
+
+00:03:15.000 --> 00:03:17.000
+us know in the comments or hit the like
+
+00:03:17.000 --> 00:03:21.000
+button, and don't forget to subscribe for
+more marketing insights.
