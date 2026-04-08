@@ -1,34 +1,37 @@
 WEBVTT
 
-00:00:00.000 --> 00:00:04.000
+00:00:25.000 --> 00:00:28.500
 Maintaining some degree of website accessibility is a legal requirement
 
-00:00:04.000 --> 00:00:08.000
+00:00:28.500 --> 00:00:32.500
 in many countries, including the UK and USA.
 
-00:00:08.000 --> 00:00:12.000
+00:00:32.500 --> 00:00:36.500
 But more than that, it's about creating more inclusive online spaces for everyone.
 
-00:00:12.000 --> 00:00:16.000
+00:00:36.500 --> 00:00:40.500
 The Web Content Accessibility Guidelines are designed to make content
 
-00:00:16.000 --> 00:00:20.000
+00:00:40.500 --> 00:00:44.500
 on desktops, laptops, tablets, and mobile devices more accessible
 
-00:00:20.000 --> 00:00:24.000
-to a wider range of people, especially those with disabilities.
+00:00:44.500 --> 00:00:49.000
+to a wider range of people, especially those with disabilities,
 
-00:00:24.000 --> 00:00:28.000
-This includes blindness and low vision, deafness and hearing loss,
+00:00:49.000 --> 00:00:53.000
+including blindness and low vision, deafness and hearing loss,
 
-00:00:28.000 --> 00:00:32.000
+00:00:53.000 --> 00:00:57.000
 limited movement, speech disabilities, photosensitivity,
 
-00:00:32.000 --> 00:00:36.000
-and learning disabilities such as dyslexia.
+00:00:57.000 --> 00:01:00.500
+and some learning disabilities like dyslexia.
 
-00:00:36.000 --> 00:00:40.000
+00:01:00.500 --> 00:01:04.500
 The guidelines state that content and user interfaces should be
 
-00:00:40.000 --> 00:00:44.000
+00:01:04.500 --> 00:01:09.000
 perceivable, operable, understandable, robust, and reliable.
+
+00:01:09.000 --> 00:01:12.500
+But what do these principles mean in practice?
