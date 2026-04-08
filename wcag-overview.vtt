@@ -1,0 +1,57 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.500
+WCAG stands for Web Content Accessibility Guidelines.
+
+00:00:04.500 --> 00:00:11.000
+It is an international standard for making web content more accessible to people with disabilities.
+
+00:00:11.000 --> 00:00:19.000
+These guidelines help ensure that websites can be used by a wide range of users, including those with visual,
+auditory, physical, speech, cognitive, and neurological disabilities.
+
+00:00:19.000 --> 00:00:23.000
+WCAG is organized around four main principles.
+
+00:00:23.000 --> 00:00:24.500
+Perceivable.
+
+00:00:24.500 --> 00:00:33.000
+Information and user interface components must be presented in ways users can perceive.
+This includes providing text alternatives for images and captions for multimedia.
+
+00:00:33.000 --> 00:00:34.500
+Operable.
+
+00:00:34.500 --> 00:00:45.500
+User interface components and navigation must be usable.
+This means users should be able to interact with content using a keyboard and have enough time to read and use content.
+
+00:00:45.500 --> 00:00:47.000
+Understandable.
+
+00:00:47.000 --> 00:00:57.500
+Information and operation of the user interface must be understandable.
+Content should be clear, predictable, and easy to follow.
+
+00:00:57.500 --> 00:00:59.000
+Robust.
+
+00:00:59.000 --> 00:01:08.000
+Content must be robust enough to work with a wide range of technologies,
+including assistive technologies like screen readers.
+
+00:01:08.000 --> 00:01:13.000
+WCAG also includes different levels of conformance.
+
+00:01:13.000 --> 00:01:17.000
+Level A is the minimum level of accessibility.
+
+00:01:17.000 --> 00:01:21.500
+Level AA is the level most organizations aim to meet.
+
+00:01:21.500 --> 00:01:26.000
+Level AAA is the highest level of accessibility.
+
+00:01:26.000 --> 00:01:32.000
+Following WCAG helps create a more inclusive web experience for everyone.
