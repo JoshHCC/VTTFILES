@@ -1,0 +1,457 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:05.000
+In this video, we’ll be talking about how
+you can make sure that the materials you
+
+00:00:05.000 --> 00:00:09.000
+create are accessible for everyone. A lot of
+the time when we talk about
+
+00:00:09.000 --> 00:00:14.000
+free content online like OER, we say that
+it’s accessible because you can literally
+“access” it,
+
+00:00:14.000 --> 00:00:18.000
+but today’s video is not about whether you
+can click through to read a news article or
+
+00:00:18.000 --> 00:00:23.000
+look at social media posts without logging
+in. No, this video is about digital
+accessibility,
+
+00:00:23.000 --> 00:00:28.000
+or the set of processes and practices that
+you can use to make sure that anyone in your
+potential
+
+00:00:28.000 --> 00:00:31.000
+audience can fully engage with your work
+online.
+
+00:00:31.000 --> 00:00:35.000
+Making your work accessible helps every
+possible downstream user who
+
+00:00:35.000 --> 00:00:39.000
+might want to access it, have a better
+chance of learning and benefiting from what
+you’ve created.
+
+00:00:39.000 --> 00:00:42.000
+This is especially important for open
+content,
+
+00:00:42.000 --> 00:00:45.000
+because anyone in the world can technically
+access your work,
+
+00:00:45.000 --> 00:00:49.000
+but we want everyone to also be able to get
+the same value out of that material.
+
+00:00:49.000 --> 00:00:53.000
+Plus, making your work accessible helps
+those readers, listeners, and others
+
+00:00:53.000 --> 00:00:57.000
+to feel included and to know that their
+needs are being considered by peers like you
+
+00:00:57.000 --> 00:01:00.000
+who are creating and sharing content for
+free online.
+
+00:01:00.000 --> 00:01:02.000
+Remember: everyone benefits here:
+
+00:01:02.000 --> 00:01:06.000
+Creating educational podcasts with
+downloadable transcripts can be useful both
+
+00:01:06.000 --> 00:01:10.000
+for listeners who prefer to read along or
+take notes on what they’re listening to,
+
+00:01:10.000 --> 00:01:13.000
+and for those who are hard of hearing or
+deaf.
+
+00:01:13.000 --> 00:01:17.000
+And using headings in your text-based
+projects makes it easier for sighted users
+to skim through
+
+00:01:17.000 --> 00:01:22.000
+the sections you included and get an
+overview of your content, while also
+providing more context
+
+00:01:22.000 --> 00:01:25.000
+for those who need to use a screen reader to
+interpret the text you’ve shared online.
+
+00:01:25.000 --> 00:01:29.000
+So, how do you make your projects
+accessible?
+
+00:01:29.000 --> 00:01:33.000
+The Web content accessibility guidelines
+include a really useful set of principles
+for tracking
+
+00:01:33.000 --> 00:01:38.000
+digital accessibility: they say that content
+should be Perceivable, Operable,
+Understandable,
+
+00:01:38.000 --> 00:01:43.000
+and Robust (which nicely translates down to
+the acronym POUR). Let’s go through these
+together,
+
+00:01:43.000 --> 00:01:49.000
+and talk about specific tips for how you can
+meet these principles in your own work:
+
+00:01:49.000 --> 00:01:53.000
+First, content should be Perceivable: or,
+users should be able to actually
+
+00:01:53.000 --> 00:01:57.000
+perceive the content in some way. For
+example, if a reader can’t physically
+
+00:01:57.000 --> 00:02:01.000
+see the text on a page, that text should be
+presented in basic formatting that allows a
+
+00:02:01.000 --> 00:02:06.000
+screen reader to “read off” the text
+audibly. If there are a lot of images in the
+text,
+
+00:02:06.000 --> 00:02:10.000
+alternative text and captions should provide
+enough context for readers to understand
+
+00:02:10.000 --> 00:02:14.000
+everything presented within that image. For
+videos, you might provide captions for
+
+00:02:14.000 --> 00:02:17.000
+those who can’t otherwise perceive the
+audible aspects of your video.
+
+00:02:17.000 --> 00:02:23.000
+And for podcasts or audio-heavy video
+projects, you might also provide a
+transcript with headings
+
+00:02:23.000 --> 00:02:27.000
+and speaker tags so your audience can follow
+along with who is speaking and how the
+content
+
+00:02:27.000 --> 00:02:30.000
+of your podcast or video is organized.
+
+00:02:30.000 --> 00:02:35.000
+Next, content should be Operable: or, users
+should be able to navigate, interface with,
+
+00:02:35.000 --> 00:02:37.000
+and properly process your content.
+
+00:02:37.000 --> 00:02:41.000
+For text-based projects, this is usually
+handled through headings, which provide
+structure and
+
+00:02:41.000 --> 00:02:46.000
+outline to your text visually, while also
+serving as a machine readable outline for
+screen readers.
+
+00:02:46.000 --> 00:02:51.000
+You don’t want to just make text 24 point
+font and bold to make it look like a
+heading:
+
+00:02:51.000 --> 00:02:55.000
+you should also use the actual heading tools
+built into your word processor of choice
+
+00:02:55.000 --> 00:03:01.000
+to denote what the sections in your text
+are. For audio and video projects, this
+might mean
+
+00:03:01.000 --> 00:03:06.000
+you put in pauses so your audience has time
+to process and engage with your material… or
+it could
+
+00:03:06.000 --> 00:03:10.000
+be as simple as using a tool to share your
+work that allows pausing, rewinding, and
+navigating
+
+00:03:10.000 --> 00:03:15.000
+through sections... Sort of like when you’re
+listening to a Youtube video, and you
+realize
+
+00:03:15.000 --> 00:03:20.000
+you lost track of where you are, so you hit
+the “go back 5 seconds” button to rewind a
+bit.
+
+00:03:20.000 --> 00:03:25.000
+And then there are links! When you share
+links out to other places in a text
+document, you should
+
+00:03:25.000 --> 00:03:31.000
+use descriptive links, or in other words,
+the linked text should describe where the
+link goes.
+
+00:03:31.000 --> 00:03:35.000
+A “click here” link doesn’t really help
+people understand what they’re clicking on,
+
+00:03:35.000 --> 00:03:39.000
+and for folks who use screen readers, they
+have an option to read off all the links on
+a page.
+
+00:03:39.000 --> 00:03:44.000
+If all of the links say “click here,” that’s
+even more confusing than it is helpful.
+
+00:03:44.000 --> 00:03:49.000
+Instead, have a descriptive link like "here
+is a link to our blog " or
+
+00:03:49.000 --> 00:03:53.000
+"read up on the topic of accessible
+content."
+
+00:03:53.000 --> 00:03:57.000
+After Operable, we have “Understandable”
+content: or,
+
+00:03:57.000 --> 00:04:01.000
+you should present information in a way that
+your users are able to understand.
+
+00:04:01.000 --> 00:04:07.000
+Sounds simple, right? This might have to do
+with the content itself or the interface
+it’s presented within.
+
+00:04:07.000 --> 00:04:11.000
+The biggest point here for your OER projects
+I want to focus on is content level:
+
+00:04:11.000 --> 00:04:16.000
+who is your audience? What is their
+education level? And how can you make sure
+that the information you share
+
+00:04:16.000 --> 00:04:21.000
+is clear, understandable, and has a solid
+enough scope for your audience to understand
+what
+
+00:04:21.000 --> 00:04:27.000
+is being communicated? You don’t have to
+make everything understandable to everyone;
+however,
+
+00:04:27.000 --> 00:04:32.000
+thinking about who your major audience is
+and what context they need in order to
+appreciate
+
+00:04:32.000 --> 00:04:35.000
+your work? That’s pretty important.
+
+00:04:35.000 --> 00:04:38.000
+And finally, content should be Robust: or,
+
+00:04:38.000 --> 00:04:42.000
+various tools and assistive technologies
+should be able to “read” your work.
+
+00:04:42.000 --> 00:04:46.000
+Remember how I mentioned using headings and
+descriptive links to help screen readers
+parse
+
+00:04:46.000 --> 00:04:51.000
+out what your documents say? That is part of
+this section as well.
+
+00:04:51.000 --> 00:04:54.000
+Make sure that the alternative text you
+provide for images in your documents
+
+00:04:54.000 --> 00:04:59.000
+actually describes the purpose of the image
+it stands in for, and if the image is too
+large,
+
+00:04:59.000 --> 00:05:03.000
+be sure to provide a longer image
+description in the text surrounding it. For
+example,
+
+00:05:03.000 --> 00:05:08.000
+if you have an image that shows a process
+like mitosis in action, you’d want to
+describe that
+
+00:05:08.000 --> 00:05:12.000
+process, the steps, and what it looks like
+in simple text as well, both to supplement
+
+00:05:12.000 --> 00:05:18.000
+the alternative text for the image, and to
+help explain what is going on in the image
+in general.
+
+00:05:18.000 --> 00:05:21.000
+For headings, I already mentioned that you
+should use the heading tool built into
+
+00:05:21.000 --> 00:05:23.000
+your word processor to mark where headings
+are.
+
+00:05:23.000 --> 00:05:28.000
+But you also want to make sure that the
+headings follow a logical order.
+
+00:05:28.000 --> 00:05:32.000
+If I have a grocery list and the title
+"grocery list" is a heading 1, for example,
+
+00:05:32.000 --> 00:05:36.000
+the section for produce should be a heading
+2, and the section for fruits should be a
+heading 3
+
+00:05:36.000 --> 00:05:41.000
+under that. If I want to go communicate that
+a heading is of the same level as another,
+
+00:05:41.000 --> 00:05:47.000
+like boxed goods in contrast to produce, I
+would set boxed goods to Heading 2 as well.
+
+00:05:47.000 --> 00:05:51.000
+Robust is really the section for “do what we
+said in the other sections, and do it
+
+00:05:51.000 --> 00:05:55.000
+well,” so when you’re thinking about making
+your content accessible in a way that is
+also robust,
+
+00:05:55.000 --> 00:05:58.000
+remember you can get help here.
+
+00:05:58.000 --> 00:06:02.000
+So! Now that we’ve gone over the 4 sections
+of POUR,
+
+00:06:02.000 --> 00:06:07.000
+what can you do to make sure you’re being
+accessible with your projects? Here are some
+general tips:
+
+00:06:07.000 --> 00:06:12.000
+First, start with an outline, a script, or
+another way of keeping yourself on task with
+your project.
+
+00:06:12.000 --> 00:06:14.000
+This can help you put together good section
+headings or
+
+00:06:14.000 --> 00:06:19.000
+otherwise just have a solid outline that
+your audience can follow along with.
+
+00:06:19.000 --> 00:06:23.000
+Second, keep in mind accessibility from the
+start of your project. Don’t wait until the
+
+00:06:23.000 --> 00:06:27.000
+end to fix all your links and check that
+your headings follow each other logically.
+If you
+
+00:06:27.000 --> 00:06:31.000
+start out with the POUR tips in mind, you’ll
+save yourself a lot of work down the road.
+
+00:06:31.000 --> 00:06:37.000
+Next, make sure that you actually create
+captions or transcripts for any media
+projects. You might
+
+00:06:37.000 --> 00:06:40.000
+create these from your base script that I
+mentioned earlier, or you might need to
+
+00:06:40.000 --> 00:06:45.000
+draft them from scratch. But don’t forget
+them! Auto-generated captions are not good
+enough,
+
+00:06:45.000 --> 00:06:51.000
+especially if your project is focusing on a
+scientific topic that uses subject specific
+terms.
+
+00:06:51.000 --> 00:06:55.000
+And remember, you can always ask for help!
+There are great support people in your
+department,
+
+00:06:55.000 --> 00:07:00.000
+in your library, and elsewhere on your
+college campus that can support you with
+making sure your
+
+00:07:00.000 --> 00:07:04.000
+work is accessible from the start. So don’t
+feel like you have to do this all alone.
+
+00:07:04.000 --> 00:07:06.000
+You don't!
+
+00:07:06.000 --> 00:07:10.000
+Thank you for watching! You can find
+additional readings and resources for
+creating accessible
+
+00:07:10.000 --> 00:07:15.000
+materials in the description below,
+including handouts, videos, and webpages
+I’ve compiled for
+
+00:07:15.000 --> 00:07:22.000
+you. This video by Abbey Elder is available
+under a Creative Commons Attribution 4.0
+license. Feel
+
+00:07:22.000 --> 00:07:27.000
+free to adapt or reuse it as you see fit,
+and best of luck creating your own
+accessible projects!
