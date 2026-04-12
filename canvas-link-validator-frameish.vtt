@@ -1,0 +1,100 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:26.000
+0:00Today I’m going to show you an incredible time-saver that you may have never noticed in your Canvas course! It’s the link validation tool.
+Got any links in your course? Of course you do!
+Maybe you’ve got a link to a Canvas Guide or you’re linking students from a content page to a discussion or web resource.
+Plus, unbeknownst to many instructors, images on a Canvas page are not actually embedded on the page.
+They’re actually HTML code linking back to the specific image in the Files area
+
+00:00:26.000 --> 00:00:52.000
+Your course is likely full of links.
+And we all know, links break.
+The good news is you don’t have to go through every page in your course every semester double-checking that all the links work because Canvas will do it for you.
+After you’ve imported your content into the new semester’s teaching shell but before you publish the course, you’ll want to use the Validate Links in Content tool.
+Let me show you what it looks like in a course… To find the Validate Links tool, click Settings in the course navigation.
+
+Select the “Validate Links in Content” option in the right menu bar, then click the Start Link Validation button.
+
+The tool will scan your entire course and give you a report that shows which links don’t appear to be working,
+where they’re located in the course and what the issue likely is
+
+00:00:52.000 --> 00:01:18.000
+Let’s talk about deciphering the report results.
+This first error tells me there is “deleted content” on the Meet Your Classmates discussion page.
+And the error itself shows as this “download” link with an image icon
+
+00:01:18.000 --> 00:01:44.000
+That invariably means the image on the page isn’t displaying properly.
+To check, I’ll right-click on the title of the page
+
+00:01:44.000 --> 00:02:10.000
+I like to open things in a new tab so I don’t lose my place on this Link Validator page.
+When I go to the Meet Your Classmates discussion, sure enough, the banner image isn’t displaying
+
+00:02:10.000 --> 00:02:36.000
+To remedy it, I can simply re-embed the image properly.
+I’ll make sure it has appropriate alt text..
+
+00:02:36.000 --> 00:03:02.000
+and then save the page.
+The next error indicates “non-existent content.” That typically means the link is going to a page in your course that no longer exists – usually because you changed the page title after creating the link.
+To fix that, open the page Editor on the problem page
+
+00:03:02.000 --> 00:03:28.000
+I’m just going to check...
+Yes, indeed, it’s telling me the page does not exist
+
+00:03:28.000 --> 00:03:54.000
+So I can go back here and, as before, we’ll simply re-link...
+by first removing the bad link, highlighting the descriptive link text
+and then choosing Course Links, finding the correct page or whatever it is you’re linking to, and then saving the page.
+
+The Learning Links page has two errors
+
+00:03:54.000 --> 00:04:20.000
+The first tells us the link is going to a different course.
+3:003 minutesThat might happen when you import content from another course or a previous semester’s shell.
+Typically, the links get updated during the import process but if the link wasn’t embedded correctly, it may still lead back to that previous course.
+You’ll still see it, because you’re in both courses but it will be a problem for your current students since they’re not likely to be enrolled in the other course shell.
+If I go to the page and click the link..
+
+00:04:20.000 --> 00:04:46.000
+it looks fine to me, but here's how to tell it's a problem.
+Up here, in the URL, it identifies the course as 28409.
+When I go to the original page, the Learning Links page, it tells me I’m in course 28541.
+Whoops - different course! To fix it, just as we did before, you’ll remove the offending link and re-link to the correct page in this course shell.
+The other link says “external links were unreachable.” Canvas is a secure environment, meaning you have to log in to access it, and it doesn’t like taking students outside of Canvas.
+
+So this error will show up with links leading to an external website
+
+00:04:46.000 --> 00:05:12.000
+The link may not or may not actually be broken but you’ll want to confirm that.
+So, again go to the page—we’re going to look for “case studies of real scientific experiments."
+When I click it...yes, indeed, this is a broken page on that external website.
+To correct it, I’ll have to do a little detective work to find either the correct page on this website or a new web page that gives students the content I want.
+
+And then on the Learning Links page, I would re-link this to the correct page.
+You’ll notice right above here, there’s another external link on the page to which the Link Validator did not give us an “unreachable” error.
+I don’t know why that happens but it does sometimes.
+In any case, if we had gotten an unreachable error for this “Virtual labs” link, again, we’ll click it just to see… And this time, it’s not actually a broken link.
+So that means I could ignore that particular alert in the Validate Links list.
+You never know when the “unreachable” error is a false positive or not so it’s best to always check the destination link by clicking on it and seeing if it’s actually going to the website or if the page is broken.
+As long as I make sure the link is working, I can ignore that error in the report
+
+00:05:12.000 --> 00:05:38.000
+The next error is telling me I’ve got links leading to unpublished content.
+
+That’s a good thing to know because it may be intentional —I don’t want students accessing these pages yet— or it may be an oversight.
+I can easily correct it by going to the unpublished item and publishing it
+
+00:05:38.000 --> 00:06:04.000
+Once you’ve fixed all the errors, run the Link Validator again to double-check.
+6:006 minutesIf you had external links that were a false positive before, those may show up again
+
+00:06:04.000 --> 00:06:30.000
+But you’ve checked them so you know you can ignore those alerts.
+Another odd thing is, sometimes, as happened here, new errors will show up when I re-run the Link Validator.
+I have no idea why that happens but just know that it might so this error did not show before but it’s showing now.
+Just make corrections to the new alerts as necessary.
+To sum it up, the Link Validation tool is a really convenient way to make sure you're not sending students to broken links.
